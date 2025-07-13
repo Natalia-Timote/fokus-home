@@ -12,7 +12,7 @@ Este projeto foi desenvolvido durante o curso da Alura:
 
 * "JavaScript: manipulando elementos no DOM"
 
-Com o **Fokus**, colocamos em prática o uso de **JavaScript para manipulação do DOM**, interações com eventos, controle de estados, alteração de atributos, estilos e criação de funcionalidades completas em uma página HTML.
+Com o **Fokus**, houve o uso de **JavaScript para manipulação do DOM**, interações com eventos, controle de estados, alteração de atributos, estilos e criação de funcionalidades completas em uma página HTML.
 
 ## 📚 Objetivos do Curso
 

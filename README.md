@@ -34,7 +34,7 @@ Uma prévia das principais funcionalidades do **Fokus**:
 
 O projeto está disponível para visualização na **Vercel**. Clique no link abaixo para acessar:
 
-<a href="https://alura-midi-vjrn.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
+<a href="https://fokus-bay-zeta.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
 
 **🎯 Temporizador Pomodoro**
 

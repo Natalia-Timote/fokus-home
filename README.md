@@ -17,14 +17,14 @@ O Fokus é uma aplicação interativa que permitiu conhecer mais sobre a **manip
 
 ## 📚 Objetivos do Curso
 
-**JavaScript: manipulando elementos no DOM:**
+**JavaScript: manipulando elementos no DOM**
 * Construir uma aplicação de temporizador estilo **Pomodoro** do zero;
 * Conhecer na prática métodos de **manipulação de elementos no DOM**, como estilos CSS, imagens e textos;
 * Alterar **atributos e classes** de forma dinâmica com JavaScript;
 * Criar **eventos** de interação com a pessoa usuária;
 * Utilizar **objetos utilitários** do JavaScript.
 
-**JavaScript: explorando a manipulação de elementos e da localStorage:**
+**JavaScript: explorando a manipulação de elementos e da localStorage**
 * Identificar e utilizar seletores CSS para interagir com elementos HTML através do JavaScript;
 * Aplicar conhecimentos de JavaScript para manipular o **DOM**;
 * Gerenciar eventos do usuário, como cliques ou envios de formulário;
